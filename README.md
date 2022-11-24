@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinavgo1000
+- 👋 Hi, I’m Abhinav Goel
 - 👀 I’m interested in Angular, Python, ReactJS
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Angular and Python projects
